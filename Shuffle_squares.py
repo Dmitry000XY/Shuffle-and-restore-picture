@@ -5,8 +5,8 @@ import random
 # import os
 # from pprint import pprint
 
-width = 10000
-height = 1
+width = 3
+height = 2
 
 img = Image.open("test.jpg")
 img = np.asarray(img)
